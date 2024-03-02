@@ -10,10 +10,6 @@
 	<img src="https://komarev.com/ghpvc/?username=afirmacja&label=Profile%20views&color=0e75b6&style=plastic" alt="afirmacja" /> 
 </p>
 
-
-## :sassy_man: About Me
-- :technologist: I love using programming as a tool to create and control other applications according to my needs.
-
 <br>
 
 ## 🔥 Statistics of the series
